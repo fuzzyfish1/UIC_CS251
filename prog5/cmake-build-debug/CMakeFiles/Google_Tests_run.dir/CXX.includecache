@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Fuzzyfish/CLionProjects/CS251/CS251Prog5/mymap.h
+iostream
+-
+sstream
+-
+vector
+-
+
+/mnt/c/Users/Fuzzyfish/CLionProjects/CS251/CS251Prog5/myrandom.h
+iostream
+-
+cstdlib
+-
+cmath
+-
+ctime
+-
+
+/mnt/c/Users/Fuzzyfish/CLionProjects/CS251/CS251Prog5/tests.cpp
+mymap.h
+/mnt/c/Users/Fuzzyfish/CLionProjects/CS251/CS251Prog5/mymap.h
+gtest/gtest.h
+-
+map
+-
+random
+-
+myrandom.h
+/mnt/c/Users/Fuzzyfish/CLionProjects/CS251/CS251Prog5/myrandom.h
+

@@ -1,0 +1,4 @@
+/mnt/c/Users/Fuzzyfish/CLionProjects/CS251/P7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Fuzzyfish/CLionProjects/CS251/P7/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Fuzzyfish/CLionProjects/CS251/P7/cmake-build-debug/CMakeFiles/test.dir
+/mnt/c/Users/Fuzzyfish/CLionProjects/CS251/P7/cmake-build-debug/CMakeFiles/app.dir

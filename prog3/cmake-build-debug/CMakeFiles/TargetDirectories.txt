@@ -1,0 +1,5 @@
+/mnt/c/Users/Fuzzyfish/CLionProjects/CS251/251progy3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Fuzzyfish/CLionProjects/CS251/251progy3/cmake-build-debug/CMakeFiles/runApp.dir
+/mnt/c/Users/Fuzzyfish/CLionProjects/CS251/251progy3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Fuzzyfish/CLionProjects/CS251/251progy3/cmake-build-debug/CMakeFiles/runMain.dir
+/mnt/c/Users/Fuzzyfish/CLionProjects/CS251/251progy3/cmake-build-debug/CMakeFiles/runTests.dir

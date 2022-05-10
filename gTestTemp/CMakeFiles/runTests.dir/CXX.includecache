@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fuzzyfish/CS251/gTestTemp/tests.cpp
+whattotest.cpp
+/home/fuzzyfish/CS251/gTestTemp/whattotest.cpp
+gtest/gtest.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Google_Tests_runA.dir/testsA.cpp.o  -o Google_Tests_runA  -lgtest -lgtest_main -pthread 

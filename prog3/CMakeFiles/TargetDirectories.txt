@@ -1,0 +1,5 @@
+/home/fuzzyfish/CS251/prog3/CMakeFiles/rebuild_cache.dir
+/home/fuzzyfish/CS251/prog3/CMakeFiles/runApp.dir
+/home/fuzzyfish/CS251/prog3/CMakeFiles/edit_cache.dir
+/home/fuzzyfish/CS251/prog3/CMakeFiles/runMain.dir
+/home/fuzzyfish/CS251/prog3/CMakeFiles/runTests.dir

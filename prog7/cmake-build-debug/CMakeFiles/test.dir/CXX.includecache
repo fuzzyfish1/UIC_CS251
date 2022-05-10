@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/Fuzzyfish/CLionProjects/CS251/P7/graph.h
+iostream
+-
+stdexcept
+-
+vector
+-
+set
+-
+unordered_map
+-
+
+/mnt/c/Users/Fuzzyfish/CLionProjects/CS251/P7/testing.cpp
+iostream
+-
+vector
+-
+queue
+-
+set
+-
+map
+-
+string
+-
+fstream
+-
+graph.h
+/mnt/c/Users/Fuzzyfish/CLionProjects/CS251/P7/graph.h
+
